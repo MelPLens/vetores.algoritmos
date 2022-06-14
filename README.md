@@ -13,7 +13,7 @@ Inicio
     Soma + 1 
     Enquanto variavel for menor que 5
     Fim enquanto
-    Faca
+    Funcao execute
     variavel c = variavel c + (vetor a * vetor b)
     Enquanto variavel for menor que 5
     Fim enquanto
